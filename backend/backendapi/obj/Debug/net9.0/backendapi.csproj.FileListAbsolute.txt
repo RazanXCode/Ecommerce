@@ -31,3 +31,4 @@ C:\Users\razan\Ecommerce\backend\backendapi\obj\Debug\net9.0\refint\backendapi.d
 C:\Users\razan\Ecommerce\backend\backendapi\obj\Debug\net9.0\backendapi.pdb
 C:\Users\razan\Ecommerce\backend\backendapi\obj\Debug\net9.0\backendapi.genruntimeconfig.cache
 C:\Users\razan\Ecommerce\backend\backendapi\obj\Debug\net9.0\ref\backendapi.dll
+C:\Users\razan\Ecommerce\backend\backendapi\obj\Debug\net9.0\backendapi.sourcelink.json

@@ -9,7 +9,7 @@ builder.Services.AddCors(options =>
     options.AddPolicy("AllowAngularApp",
         policy =>
         {
-            policy.WithOrigins("http://localhost:59314/")
+            policy.WithOrigins("http://localhost:63167/")
                   .AllowAnyHeader()
                   .AllowAnyMethod();
         });
@@ -30,11 +30,11 @@ app.UseCors("AllowAngularApp");
 
 var products = new[]
 {
-    new Product("Laptop", "High-performance laptop with 16GB RAM", 1200.99m, "https://example.com/laptop.jpg"),
-    new Product("Smartphone", "Latest model with 128GB storage", 799.49m, "https://example.com/smartphone.jpg"),
-    new Product("Headphones", "Noise-canceling over-ear headphones", 199.99m, "https://example.com/headphones.jpg"),
-    new Product("Smartwatch", "Waterproof smartwatch with health tracking", 249.99m, "https://example.com/smartwatch.jpg"),
-    new Product("Camera", "Professional DSLR camera with 24MP sensor", 899.99m, "https://example.com/camera.jpg")
+    new Product("Laptop", "High-performance laptop with 16GB RAM", 1200.99m, "https://unsplash.com/photos/laptop-on-white-table-Gi3iUJ1FwxI"),
+    new Product("Smartphone", "Latest model with 128GB storage", 799.49m, "https://unsplash.com/photos/laptop-on-white-table-Gi3iUJ1FwxI"),
+    new Product("Headphones", "Noise-canceling over-ear headphones", 199.99m, "https://unsplash.com/photos/laptop-on-white-table-Gi3iUJ1FwxI"),
+    new Product("Smartwatch", "Waterproof smartwatch with health tracking", 249.99m, "https://unsplash.com/photos/laptop-on-white-table-Gi3iUJ1FwxI"),
+    new Product("Camera", "Professional DSLR camera with 24MP sensor", 899.99m, "https://unsplash.com/photos/laptop-on-white-table-Gi3iUJ1FwxI")
 };
 
 app.MapGet("/products", () =>

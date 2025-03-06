@@ -2,5 +2,6 @@
 <ul>
   <li *ngFor="let product of products">
     <strong>{{ product.name }}</strong> - ${{ product.price }}
+    <button (click)="viewDetails(product)">View Details</button>
   </li>
 </ul>
