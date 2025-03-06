@@ -15,6 +15,7 @@ C:\Users\razan\Ecommerce\backend\backendapi\obj\Debug\net9.0\backendapi.Assembly
 C:\Users\razan\Ecommerce\backend\backendapi\obj\Debug\net9.0\backendapi.csproj.CoreCompileInputs.cache
 C:\Users\razan\Ecommerce\backend\backendapi\obj\Debug\net9.0\backendapi.MvcApplicationPartsAssemblyInfo.cs
 C:\Users\razan\Ecommerce\backend\backendapi\obj\Debug\net9.0\backendapi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\razan\Ecommerce\backend\backendapi\obj\Debug\net9.0\backendapi.sourcelink.json
 C:\Users\razan\Ecommerce\backend\backendapi\obj\Debug\net9.0\scopedcss\bundle\backendapi.styles.css
 C:\Users\razan\Ecommerce\backend\backendapi\obj\Debug\net9.0\staticwebassets.build.json
 C:\Users\razan\Ecommerce\backend\backendapi\obj\Debug\net9.0\staticwebassets.development.json
@@ -31,4 +32,3 @@ C:\Users\razan\Ecommerce\backend\backendapi\obj\Debug\net9.0\refint\backendapi.d
 C:\Users\razan\Ecommerce\backend\backendapi\obj\Debug\net9.0\backendapi.pdb
 C:\Users\razan\Ecommerce\backend\backendapi\obj\Debug\net9.0\backendapi.genruntimeconfig.cache
 C:\Users\razan\Ecommerce\backend\backendapi\obj\Debug\net9.0\ref\backendapi.dll
-C:\Users\razan\Ecommerce\backend\backendapi\obj\Debug\net9.0\backendapi.sourcelink.json
